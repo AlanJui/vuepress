@@ -10,7 +10,7 @@ tags:
     - pipenv
 ---
 
-使用 ZSH 當成 macOS 在 Command Line 的操作介面，天空是藍色的，配合 pipenv 的使用，Python 虛擬環境的運作正常。
+在我的 macOS 作業系統上，使用 ZSH 當成 Command Line 的操作介面時，天空是藍色的，以 pipenv 管理 Python 的虛擬環境時，一切運作正常。
 
 
 ![](https://paper-attachments.dropbox.com/s_E0FE9E5474053ADFE59BF139FA39C215CCC86B81A5277B5AE04311F8F42685B9_1571196203931_image.png)
